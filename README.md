@@ -5,5 +5,5 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 
 &nbsp;&nbsp;&nbsp;&nbsp; **1-** _Primeiros Passos com CSS_
 
-&nbsp;&nbsp;&nbsp;&nbsp; **2-** _Trabalhando com Layouts no CSS_
+&nbsp;&nbsp;&nbsp;&nbsp; **2-** _Estilizações Básicas com CSS_
 
