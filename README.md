@@ -7,3 +7,4 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2-** _Estilizações Básicas com CSS_
 
+&nbsp;&nbsp;&nbsp;&nbsp; **2-** _Unidades de Medida_
