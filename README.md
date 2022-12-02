@@ -11,3 +11,7 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 
 &nbsp;&nbsp;&nbsp;&nbsp; **4-** _Criando Landing Page com HTML e CSS_
 
+# 
+**1- Primeiros Passos com CSS**
+
+&nbsp;&nbsp;&nbsp;&nbsp;
