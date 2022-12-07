@@ -15,3 +15,8 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 **1- Primeiros Passos com CSS**
 
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+# 
+**2- Estilizações Básicas com CSS**
+
+&nbsp;&nbsp;&nbsp;&nbsp;
