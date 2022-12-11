@@ -14,7 +14,9 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 # 
 **1- Primeiros Passos com CSS**
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Foram estudados diferentes seletores, formas de agrupamentos e combinadores. Como também propriedades relacionadas aos dimencionamentos dos elementos.
+
+&nbsp;&nbsp;Exemplo, _margin_, _padding_ e _box sizing_.
 
 # 
 **2- Estilizações Básicas com CSS**
