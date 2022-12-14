@@ -26,6 +26,12 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 # 
+**2.2- Estilizações Básicas com CSS - Parte 2**
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+# 
 **3- Unidades de Medida**
 
 &nbsp;&nbsp;&nbsp;&nbsp;
