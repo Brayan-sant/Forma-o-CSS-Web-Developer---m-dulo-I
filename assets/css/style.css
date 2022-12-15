@@ -1,0 +1,76 @@
+
+
+html {
+    width: 1550px;
+}
+
+header {
+    display: flex;
+    background: linear-gradient(360deg, rgba(0, 0, 0, 1) 0%, rgba(49, 169, 221, 0.459) 250%);
+}
+
+.banner {
+    flex-direction: column;
+    text-align: center;
+}
+
+.banner-content {
+    background-image: url("../img/banner.png");
+    background-size: 1550px 605px;
+    width: 1535px;
+    height: 555px;
+}
+
+.logomarca {
+    height: 214px;
+    width: 248px;
+    margin-top: 30px;
+}
+
+.logo {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 515px;
+}
+
+h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+
+    background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.p1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 3px;
+}
+
+button {
+    width: 234px;
+    height: 49px;
+    background-color: transparent;
+    border: 1px solid;
+    text-align: center;
+    letter-spacing: 0.21em;
+    color: #31A8DD;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+}
