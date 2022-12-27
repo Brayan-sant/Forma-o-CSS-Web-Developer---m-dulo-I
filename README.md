@@ -32,11 +32,11 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 
 
 # 
-**3- Unidades de Medida**
+**3 Unidades de Medida**
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 # 
-**4- Criando Landing Page com HTML e CSS**
+**4 Criando Landing Page com HTML e CSS**
 
 &nbsp;&nbsp;&nbsp;&nbsp;
