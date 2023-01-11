@@ -23,7 +23,7 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 # 
 **2.1- Estilizações Básicas com CSS - Parte 1**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Neste capítulo foi abordado tópicos relacionados as cores e suas propriedades, como também as propriedades object e background e, suas variações e valores.
+&nbsp;&nbsp;&nbsp;&nbsp; Neste capítulo foi abordado tópicos relacionados as cores e suas propriedades, como também as propriedades _object_, _background_ e _border_ e, suas variações e valores.
 
 # 
 **2.2- Estilizações Básicas com CSS - Parte 2**
