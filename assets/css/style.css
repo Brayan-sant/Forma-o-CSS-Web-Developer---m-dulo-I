@@ -80,7 +80,7 @@ button {
 }
 
 body {
-    background-color: rgb(196, 190, 190);
+    background-color: rgb(0, 0, 0);
     width: 1550px;
 }
 
@@ -152,8 +152,7 @@ span {
 }
 
 #transform-world {
-    display: flex;
-    width: 1439px;
+    width: 1550px;
     height: 390px;
     position: relative;
     border-bottom: 3px solid #1472B7;
@@ -173,16 +172,65 @@ span {
     line-height: 47px;
 
     color: #FFFFFF;
-
     text-shadow: 3px 2px 0px #33A8DB;
 }
 
-.tecnology {
+/*Foi necessário criar além da 'id' da section, uma class também para poder estilizar a imagem de fundo sem alterar as configurações base da section.*/
+.background {
+    background-image: url("../img/woman-code.png");
     position: absolute;
     width: 1558px;
     height: 960px;
-    left: 0px;
-    object-fit: cover;
-    top: -250px;
-    background-attachment: local;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#professional-challenges {
+    width: 1550px;
+    height: 790px;
+    border-bottom: 3px solid #1472B7;
+}
+
+.evolved {
+    position: absolute;
+    width: 846px;
+    height: 76px;
+    left: 347px;
+    top: 1450px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.19em;
+
+    color: #33A8DB;
+}
+
+.challeng {
+    position: absolute;
+    width: 659px;
+    height: 429px;
+    left: 450px;
+    top: 1595px;
+}
+
+.together {
+    position: absolute;
+    width: 792px;
+    height: 76px;
+    left: 380px;
+    top: 2050px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #FFFFFF;
 }
