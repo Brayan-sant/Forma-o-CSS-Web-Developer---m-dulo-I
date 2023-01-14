@@ -234,3 +234,33 @@ span {
 
     color: #FFFFFF;
 }
+
+footer {
+    position: relative;
+    height: 150px;
+}
+
+.chamada-final {
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    top: 100px;
+    left: 635px;
+}
+
+a {
+    text-decoration: none;
+    color: #33A8DB;
+}
+
+.dio-logo {
+    position: absolute;
+    width: 310px;
+    height: 44px;
+    left: 600px;
+    top: 59px;
+}
