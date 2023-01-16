@@ -33,9 +33,9 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 # 
 **3- Unidades de Medida**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Foram estudadas as unidades de medidas _relativas_ e _absolutas_. Bem como a importância do seu uso para o redimencionamento das páginas web para serem exibidos em diferentes tamanhos de tela dos usuários.
+&nbsp;&nbsp;&nbsp;&nbsp; Foram estudadas as unidades de medidas relativas e absolutas. Bem como a importância do seu uso para o redimencionamento das páginas web para serem exibidos em diferentes tamanhos de tela dos usuários.
 
 # 
 **4- Criando Landing Page com HTML e CSS**
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; 
