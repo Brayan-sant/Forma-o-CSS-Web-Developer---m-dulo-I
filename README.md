@@ -30,11 +30,10 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 
 &nbsp;&nbsp;&nbsp;&nbsp; Na segunda parte do capítulo foram aprofundados o conhecimento sobre as propriedades _box-shadow_ e _opacity_, bem como seus valores. Também foi aprendido a técnica *Reset CSS*.
 
-
 # 
 **3- Unidades de Medida**
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Foram estudadas as unidades de medidas _relativas_ e _absolutas_. Bem como a importância do seu uso para o redimencionamento das páginas web para serem exibidos em diferentes tamanhos de tela dos usuários.
 
 # 
 **4- Criando Landing Page com HTML e CSS**
