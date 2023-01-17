@@ -38,4 +38,4 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 # 
 **4- Criando Landing Page com HTML e CSS**
 
-&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp; Com os conhecimentos adquiridos, foi criado uma Landing page através do modelo de projeto na ferramenta Figma, ao qual se trabalhou elementos gráficos e vizuais da página, bem como uso da Técnica *Reset CSS*.
