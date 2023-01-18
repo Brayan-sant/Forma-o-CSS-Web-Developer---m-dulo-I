@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('reset.css');
 
 
 header {
-    display: flex;
     background: linear-gradient(360deg, rgba(0, 0, 0, 1) 0%, rgba(49, 169, 221, 0.459) 250%);
     height: 500px;
     border-bottom: 3px solid #1472B7;
@@ -15,13 +14,12 @@ header {
 
 .banner-content {
     background-image: url("../img/banner.png");
-    background-size: 1550px 605px;
-    
+    background-size: 1440px 500px;
+    background-repeat: no-repeat;
+    height: 605px;
 }
 
 .logomarca {
-    height: 214px;
-    width: 248px;
     margin-top: 60px;
 }
 
@@ -30,14 +28,12 @@ header {
     align-items: center;
     flex-direction: column;
     width: 405px;
-    margin-left: 580px;
+    margin-left: 470px;
 }
 
 h1 {
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 900;
-    font-size: 30px;
+    font-size: 2rem;
     line-height: 47px;
     text-transform: uppercase;
 
@@ -48,15 +44,12 @@ h1 {
 }
 
 .p1 {
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 350;
     font-size: 15px;
     line-height: 23px;
     text-align: center;
     color: #FFFFFF;
-    margin-top: 1px;
-    width: 385px;
+    margin: 10px;
 }
 
 button {
@@ -68,8 +61,6 @@ button {
     letter-spacing: 0.21em;
     color: #31A8DD;
     
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 900;
     font-size: 12px;
     line-height: 19px;
@@ -90,8 +81,6 @@ body {
 }
 
 .h2-modulos {
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 700;
     font-size: 25px;
     line-height: 38px;
@@ -101,15 +90,12 @@ body {
 }
 
 .p-modulo {
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
     text-align: center;
     color: #FFFFFF;
     width: 800px;
-
     margin-bottom: 5px;
 }
 
@@ -118,8 +104,6 @@ span {
 }
 
 .modules-list {
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -147,7 +131,7 @@ span {
 }
 
 #transform-world {
-    width: 1567px;
+    width: 1349px;
     height: 390px;
     position: relative;
 }
@@ -159,8 +143,6 @@ span {
     left: 100px;
     bottom: 100px;
 
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 900;
     font-size: 40px;
     line-height: 47px;
@@ -173,16 +155,15 @@ span {
 .background {
     background-image: url("../img/woman-code.png");
     position: absolute;
-    width: 1558px;
+    width: 1310px;
     height: 960px;
     background-attachment: fixed;
     background-size: cover;
     border-bottom: 3px solid #1472B7;
-
 }
 
 #professional-challenges {
-    width: 1567px;
+    width: 1349px;
     height: 790px;
     border-bottom: 3px solid #1472B7;
 }
@@ -191,11 +172,9 @@ span {
     position: absolute;
     width: 846px;
     height: 76px;
-    left: 347px;
+    left: 250px;
     top: 1450px;
 
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 700;
     font-size: 32px;
     line-height: 38px;
@@ -210,7 +189,7 @@ span {
     position: absolute;
     width: 659px;
     height: 429px;
-    left: 450px;
+    left: 350px;
     top: 1595px;
 }
 
@@ -218,11 +197,9 @@ span {
     position: absolute;
     width: 792px;
     height: 76px;
-    left: 380px;
+    left: 290px;
     top: 2050px;
 
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -239,13 +216,11 @@ footer {
 .chamada-final {
     position: absolute;
     color: #FFFFFF;
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
     top: 100px;
-    left: 635px;
+    left: 530px;
 }
 
 a {
@@ -257,6 +232,6 @@ a {
     position: absolute;
     width: 310px;
     height: 44px;
-    left: 600px;
+    left: 500px;
     top: 59px;
 }
