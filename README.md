@@ -11,7 +11,7 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 
 &nbsp;&nbsp;&nbsp;&nbsp; **3-** [_Unidades de Medida_](https://github.com/Brayan-sant/Formacao-CSS-Web-Developer-modulo-I/blob/main/Aulas/Unidades%20de%20Medida%20CSS.docx)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **4-** _Criando Landing Page com HTML e CSS_
+&nbsp;&nbsp;&nbsp;&nbsp; **4-** [_Criando Landing Page com HTML e CSS_](https://brayan-sant.github.io/Formacao-CSS-Web-Developer-modulo-I/)
 
 # 
 **1- Primeiros Passos com CSS**
