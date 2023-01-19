@@ -36,6 +36,6 @@ Neste módulo serão abordados os fundamentos do CSS, estilizações básicas, u
 &nbsp;&nbsp;&nbsp;&nbsp; Foram estudadas as unidades de medidas relativas e absolutas. Bem como a importância do seu uso para o redimencionamento das páginas web para serem exibidos em diferentes tamanhos de tela dos usuários.
 
 # 
-**4- Criando Landing Page com HTML e CSS**
+**- Criando Landing Page com HTML e CSS**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Com os conhecimentos adquiridos, foi criado uma Landing page através do modelo de projeto na ferramenta Figma, ao qual se trabalhou elementos gráficos e vizuais da página, bem como uso da Técnica *Reset CSS*.
