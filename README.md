@@ -14,14 +14,14 @@ Este módulo serão abordados os fundamentos do CSS, estilizações básicas, un
 &nbsp;&nbsp;&nbsp;&nbsp; **4-** [_Criando Landing Page com HTML e CSS_](https://brayan-sant.github.io/Formacao-CSS-Web-Developer-modulo-I/)
 
 # 
-**1- Primeiros Passos com CSS**
+**- Primeiros Passos com CSS**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Foram estudados diferentes seletores, formas de agrupamentos e combinadores. Como também propriedades relacionadas aos dimencionamentos dos elementos.
 
 &nbsp;&nbsp;Exemplo, _margin_, _padding_ e _box sizing_.
 
 # 
-**2.1- Estilizações Básicas com CSS - Parte 1**
+**- Estilizações Básicas com CSS - Parte 1**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Neste capítulo foi abordado tópicos relacionados as cores e suas propriedades, como também as propriedades _object_, _background_, _border_ e _font_, _text_ e, suas variações e valores.
 
