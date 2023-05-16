@@ -21,7 +21,7 @@ Este módulo serão abordados os fundamentos do CSS, estilizações básicas, un
 &nbsp;&nbsp;Exemplo, _margin_, _padding_ e _box sizing_.
 
 # 
-**2.1- Estilizações Básicas com CSS - Parte 1**
+**2.1- _Estilizações Básicas com CSS_ - Parte 1**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Neste capítulo foi abordado tópicos relacionados as cores e suas propriedades, como também as propriedades _object_, _background_, _border_ e _font_, _text_ e, suas variações e valores.
 
