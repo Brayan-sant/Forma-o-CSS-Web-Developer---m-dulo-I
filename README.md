@@ -14,7 +14,7 @@ Este módulo serão abordados os fundamentos do CSS, estilizações básicas, un
 &nbsp;&nbsp;&nbsp;&nbsp; **4-** [__Criando Landing Page com HTML e CSS__](https://brayan-sant.github.io/Formacao-CSS-Web-Developer-modulo-I/)
 
 # 
-**1- Primeiros Passos com CSS**
+**1- _Primeiros Passos com CSS_**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Foram estudados diferentes seletores, formas de agrupamentos e combinadores. Como também propriedades relacionadas aos dimencionamentos dos elementos.
 
