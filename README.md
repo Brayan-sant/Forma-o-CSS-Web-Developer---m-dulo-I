@@ -26,7 +26,7 @@ Este módulo serão abordados os fundamentos do CSS, estilizações básicas, un
 &nbsp;&nbsp;&nbsp;&nbsp; Neste capítulo foi abordado tópicos relacionados as cores e suas propriedades, como também as propriedades _object_, _background_, _border_ e _font_, _text_ e, suas variações e valores.
 
 # 
-2.2**- _Estilizações Básicas com CSS - Parte 2_
+2.2**- _Estilizações Básicas com CSS - Parte 2_**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Na segunda parte do capítulo foram aprofundados o conhecimento sobre as propriedades _box-shadow_ e _opacity_, bem como seus valores. Também foi aprendido a técnica *Reset CSS*.
 
